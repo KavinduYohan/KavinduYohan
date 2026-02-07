@@ -18,7 +18,9 @@
 ---
 
 ## 🛠️ Tech Stack
+
 <div align="center">
+
 ### 🎨 Frontend Technologies
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -26,15 +28,18 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
 </p>
 
+---
+
 ### 🧠 Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
 </p>
+
+---
 
 ### 🧰 Languages & Tools
 <p>
@@ -45,8 +50,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 </p>
+
 </div>
----
 
 ## 📊 GitHub Analytics
 
