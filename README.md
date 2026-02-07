@@ -51,6 +51,7 @@
   <img height="60" src="https://skillicons.dev/icons?i=python&theme=dark"/>
   <img height="60" src="https://skillicons.dev/icons?i=java&theme=dark"/>
   <img height="60" src="https://skillicons.dev/icons?i=docker&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=aws&theme=dark"/>
   <img height="60" src="https://skillicons.dev/icons?i=git&theme=dark"/>
 </p>
 
