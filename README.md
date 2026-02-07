@@ -19,39 +19,41 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+---
 
 ### 🎨 Frontend Technologies
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+
+<p align="center">
+  <img height="60" src="https://skillicons.dev/icons?i=react&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=nextjs&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=flutter&theme=dark"/>
 </p>
 
 ---
 
 ### 🧠 Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+
+<p align="center">
+  <img height="60" src="https://skillicons.dev/icons?i=nodejs&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=express&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=mongodb&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=postgres&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=firebase&theme=dark"/>
 </p>
 
 ---
 
 ### 🧰 Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<p align="center">
+  <img height="60" src="https://skillicons.dev/icons?i=javascript&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=typescript&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=python&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=java&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=docker&theme=dark"/>
+  <img height="60" src="https://skillicons.dev/icons?i=git&theme=dark"/>
 </p>
 
-</div>
 
 ## 📊 GitHub Analytics
 
